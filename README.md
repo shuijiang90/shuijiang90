@@ -1,4 +1,5 @@
 ## Hi there 👋
+### A Chinese designer-engineer in Italy exploring Smart & Sustainable Communities — combines IoT, cloud, and visual storytellin explain complex ideas and real life
 
 <!--
 **shuijiang90/shuijiang90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
