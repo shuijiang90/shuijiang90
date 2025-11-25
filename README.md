@@ -1,6 +1,7 @@
-## Hi there 👋
-### A Chinese designer-engineer in Italy exploring Smart & Sustainable Communities — combines IoT, cloud, and visual storytellin explain complex ideas and real life
-
+### Hi, I'm Shui!
+  🔭 A Chinese designer-engineer in Italy exploring Smart & Sustainable Communities — combines IoT, cloud, and visual storytellin explain complex ideas and real life<br/>
+  🌱 I’m currently learning [Digital Skills For Sustainable Societal Transitions](https://www.polito.it/en/education/master-s-degree-programmes/digital-skills-for-sustainable-societal-transitions) at Politecnico di Torino, Italy<br/>
+  💬 Ask me about ...
 <!--
 **shuijiang90/shuijiang90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
