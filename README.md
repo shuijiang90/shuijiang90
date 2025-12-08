@@ -1,8 +1,10 @@
 ## About Me
-   - A Chinese designer-engineer in Italy exploring Smart & Sustainable Communities — combines IoT, cloud, and visual storytellin explain complex ideas and real life<br/>
+   - A Chinese designer-engineer in Italy exploring Smart & Sustainable Communities — combines IoT, cloud, and visual storytellin explain complex ideas and real life.<br/>
+   5+ years of multidisciplinary project management experience in China, now focusing on Smart & Sustainable Communities and digital transformations.
    - I’m currently learning [Digital Skills For Sustainable Societal Transitions](https://www.polito.it/en/education/master-s-degree-programmes/digital-skills-for-sustainable-societal-transitions) at Politecnico di Torino, Italy<br/>
    - **Relevant Coursework:** IoT and Cloud for Sustainable Communities, Applied AI and Machine Learning, Geographic Information Systems (GIS), Energy Transition and Modeling, Python Programming, Database systems, Transport innovation for a sustainable inclusive and smart mobility, Post-carbon sustainable communities (Atelier)<br/>
    - **Skills:** Python, SQL, Knime, RESTful, MQTT, GIS modeling, ChatBot
+   
   
 <!--
 
